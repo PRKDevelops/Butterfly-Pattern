@@ -1,9 +1,0 @@
-/**
- * 
- */
-/**
- * @author khare
- *
- */
-module Pattern {
-}
